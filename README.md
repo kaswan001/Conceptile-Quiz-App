@@ -111,8 +111,3 @@ If problems persist, please open an issue in the project repository with details
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
